@@ -1,0 +1,21 @@
+html{
+    background-color: darksalmon;
+    
+}
+#thirdDiv{
+    height: 600px;
+    width: 600px;
+    padding: 50px;
+    border: 2px  solid red
+
+}
+h1{
+    color: forestgreen;
+}
+img{
+    width: 400px;
+}
+#spanId{
+    font-size: 18px;
+    margin: 50px;
+}
